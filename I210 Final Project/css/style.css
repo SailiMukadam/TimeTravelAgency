@@ -1,9 +1,0 @@
-.jumbotron {
-    height: 40rem;
-    background: url('../images/backpackAdventure.jpg') no-repeat center center; 
-    background-size: cover;
-}
-
-.navbar-right li a{
-    padding-left: 10px;
-}
